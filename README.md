@@ -16,6 +16,13 @@ JU090-6039P-08409-8J0QH-2YR7F
 4C21U-2KK9Q-M8130-4V2QH-CF810
 ```
 
+## Setting koneksi internet VM
+VM -> Removable Devices -> Network Adapter -> Settings
+- Ubah Network Connection menjadi Bridge 
+- Enable Replicate physical network connection state
+- Klik OK
+- Turn off lalu turn on wired connection
+
 ## Pilih repository terdekat, untuk saat ini server singapore tercepat
 Buka aplikasi Software & Update
 Ubah 'download from' ke server singapore: mirror.aktkn.sg
