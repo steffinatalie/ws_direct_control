@@ -43,6 +43,7 @@ sudo apt install git
 ```
 cd ~/
 git clone https://github.com/rizkyrivaldi/ws_direct_control.git --recursive
+cd ws_direct_control
 git submodule update --init --recursive --remote
 git submodule sync --recursive
 git submodule update --init --recursive
