@@ -190,6 +190,7 @@ sudo apt install python3-colcon-common-extensions
 cd ~/ws_direct_control
 colcon build
 ```
+Jika gagal build direct_control, downgrade setuptools ke versi 70
 
 ## Setup contoh listener ke topic uORB
 ```
