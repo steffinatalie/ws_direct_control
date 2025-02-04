@@ -233,7 +233,7 @@ make px4_sitl_default gazebo-classic
 
 ### Terminal Ketiga
 ```
-cd ~/QgroundControl
+cd ~/QGroundControl
 ./QGroundControl.AppImage
 ```
 Pastikan bahwa aktuator menggunakan motor 1, motor 2, motor 3, dan motor 4
