@@ -262,7 +262,7 @@ make px4_sitl_default gazebo-classic
 
 ### Terminal Ketiga
 ```
-cd ~/QgroundControl
+cd ~/QGroundControl
 ./QGroundControl.AppImage
 ```
 Pastikan bahwa aktuator menggunakan Offboard Actuator Set 1, Offboard Actuator Set 2, Offboard Actuator Set 3, dan Offboard Actuator Set 4
@@ -319,7 +319,7 @@ ros2 launch px4_ros_com sensor_combined_listener.launch.py
 
 Menjalankan QGroundControl
 ```
-cd ~/QgroundControl
+cd ~/QGroundControl
 ./QGroundControl.AppImage
 ```
 
